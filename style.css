@@ -1,0 +1,108 @@
+/* New Arival */
+.section-title{
+    font-family: 'poppins';
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    position: center;
+
+    border-bottom: 5px solid #fcbb3a;
+    width: 10%;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    position: center;
+}
+.popular-products{
+    padding-top: 30px;
+    padding-bottom: 46px;
+}
+.products-text{
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+.products-price{
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #fcbb3a
+}
+.component-products{
+    margin-top: 50px;
+    margin-bottom: 36px;
+    border-radius: 8px;
+    border: #000000;
+    padding-bottom: 30px;
+
+    transition: all 0.2 ease-in-out;
+}
+.component-products:hover{
+    text-decoration: none;
+    transform: scale(1.1);
+}
+.products-img{
+    padding: 0.5rem;
+    border-radius: 5px 5px;
+    transition: all 0.3 ease-in-out;
+}
+/* Tutup New Arival */
+.component-categories{
+    margin-top: 50px;
+    margin-bottom: 36px;
+    border-radius: 8px;
+    border: #000000;
+    padding-bottom: 30px;
+
+    transition: all 0.2 ease-in-out;
+}
+.component-products:hover{
+    text-decoration: none;
+    transform: scale(1.1);
+}
+.categories-thumbnail{
+    padding: 0.5rem;
+    border-radius: 5px 5px;
+    transition: all 0.3 ease-in-out;
+}
+/* Categories */
+
+/* Tutup Categories */
+/* Footer */
+.footer{
+    margin-top: 100px;
+    padding-top: 50px;
+    background-color: #FFDAF7 !important;
+}
+.footer h4{
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 28px;
+
+
+    border-bottom: 5px solid #B2A1A1;
+    width: 90%;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+.footer p{
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #000000;  
+}
+.footer-small{
+    border-top: 5px solid #B2A1A1;
+    padding-bottom: 200px;
+    background-color: #FFDAF7 !important;
+}
+.footer-img{
+    position: center;
+    margin-top: 15px;
+}
+/* Tutup Footer */
+
